@@ -23,7 +23,7 @@ Here we design this button in the style of Leonardo UI.
 
 ![pic4](https://github.com/mxxt/my_image/blob/master/WechatIMG8.png?raw=true)
 
-result：
+Here we get a button：
 
 ![pic4](https://github.com/mxxt/my_image/blob/master/WechatIMG9.png?raw=true)
 
