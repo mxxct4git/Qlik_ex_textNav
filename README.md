@@ -11,19 +11,19 @@ For example, you can set your font color, font size, etc in the panel, and you c
 
 Here we design this button in the style of Leonardo UI.
 
-- Font Color：#595959
-- Font Size：13
+- Font Color: #595959
+- Font Size: 13
 - Bold
-- Border Color：#B3B3B3
-- Border Width：1
-- Border Radius：3
-- Border Line：Solid
+- Border Color: #B3B3B3
+- Border Width: 1
+- Border Radius: 3
+- Border Line: Solid
 
 ![pic3](https://github.com/mxxt/my_image/blob/master/WechatIMG7.png?raw=true)
 
 ![pic4](https://github.com/mxxt/my_image/blob/master/WechatIMG8.png?raw=true)
 
-Here we get a button：
+Here we get a button: 
 
 ![pic4](https://github.com/mxxt/my_image/blob/master/WechatIMG9.png?raw=true)
 
