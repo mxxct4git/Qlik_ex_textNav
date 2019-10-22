@@ -1,6 +1,8 @@
 # Qlik_ex_textNav
 This is an extension which helps you jump pages you want easily. You are free to custom the text style you like in the right panel. 
 
+The reason for developing this extension is that there are two main types of jumps required in the business, text and buttons, and we currently use 2 extensions, but their customization is not very good, so we decide to put the two together.
+
 ![pic1](https://github.com/mxxt/my_image/blob/master/WechatIMG4.png?raw=true)
 
 ![pic2](https://github.com/mxxt/my_image/blob/master/WechatIMG5.png?raw=true)
